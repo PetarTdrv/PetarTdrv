@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Petar Todorov
+- 👋 Hi, I’m Petar
 - 👀 I’m interested in programming with Python
 - 🌱 I’m currently learning in school
 - 📫 How to reach me: [![Facebook](![fb_icon_325x325](https://github.com/PetarTdrv/PetarTdrv/assets/154418284/50d19105-5e65-4f80-99f4-b8319f5cba61)
