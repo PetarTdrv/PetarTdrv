@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petartdrv" alt="petartdrv" /></a> </p>
 
-- 🌱 I’m currently learning **I am currently learning to program with Python. And some JavaScript**
+- 🌱 **I am currently learning to program with Python. And some JavaScript**
 
 - 📫 How to reach me **ptodorov135@gmail.com**
 
